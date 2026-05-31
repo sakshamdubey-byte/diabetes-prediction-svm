@@ -1,5 +1,7 @@
 # Predicting Diabetes with Machine Learning (SVM)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sakshamdubey-byte/diabetes-prediction-svm/blob/main/Diabetes_Prediction_SVM.ipynb)
+
 Hey there! This is a personal machine learning project where I built a Python model to predict whether someone might have diabetes based on their medical stats. 
 
 Since early detection is so important for managing diabetes, I wanted to see how accurately a **Support Vector Machine (SVM)** classifier could spot the patterns in clinical data.
