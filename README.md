@@ -45,3 +45,14 @@ If you want to pull this code down and play with it on your local machine, just 
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/sakshamdubey-byte/diabetes-prediction-svm.git](https://github.com/sakshamdubey-byte/diabetes-prediction-svm.git)
+
+2.Head into the directory and open up Jupyter Notebook or Google Colab.
+3.Open your notebook file and run the cells!
+
+🛠️ Required Packages
+Make sure you have these standard data science libraries installed before running the code:
+
+numpy
+pandas
+scikit-learn
+
